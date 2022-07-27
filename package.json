@@ -1,0 +1,23 @@
+{
+  "name": "cucumber-learn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cucumber-js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LyleiLanar/cucumber-learn.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LyleiLanar/cucumber-learn/issues"
+  },
+  "homepage": "https://github.com/LyleiLanar/cucumber-learn#readme",
+  "devDependencies": {
+    "@cucumber/cucumber": "^8.5.0"
+  }
+}
